@@ -1,0 +1,11 @@
+
+.row {
+    position: relative;
+    background-color: rgb(75, 136, 136);
+    text-align: center;
+    margin: 15% 30%;
+    width: 38%;
+}
+.col{
+    height: 200px;
+}
